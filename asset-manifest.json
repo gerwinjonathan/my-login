@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-login/static/css/main.29a03e72.chunk.css",
-    "main.js": "/my-login/static/js/main.21268fc8.chunk.js",
-    "main.js.map": "/my-login/static/js/main.21268fc8.chunk.js.map",
+    "main.js": "/my-login/static/js/main.99ee35d9.chunk.js",
+    "main.js.map": "/my-login/static/js/main.99ee35d9.chunk.js.map",
     "runtime~main.js": "/my-login/static/js/runtime~main.da3c06c3.js",
     "runtime~main.js.map": "/my-login/static/js/runtime~main.da3c06c3.js.map",
     "static/js/2.3d37b8f0.chunk.js": "/my-login/static/js/2.3d37b8f0.chunk.js",
     "static/js/2.3d37b8f0.chunk.js.map": "/my-login/static/js/2.3d37b8f0.chunk.js.map",
     "index.html": "/my-login/index.html",
-    "precache-manifest.313b83075fdc343194591e2f37db3715.js": "/my-login/precache-manifest.313b83075fdc343194591e2f37db3715.js",
+    "precache-manifest.be11b8ad46e11ee6801ee873914b5f9b.js": "/my-login/precache-manifest.be11b8ad46e11ee6801ee873914b5f9b.js",
     "service-worker.js": "/my-login/service-worker.js",
     "static/css/main.29a03e72.chunk.css.map": "/my-login/static/css/main.29a03e72.chunk.css.map",
     "static/media/React.png": "/my-login/static/media/React.47ce6e77.png",

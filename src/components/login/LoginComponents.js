@@ -27,7 +27,7 @@ export default class Login extends React.Component {
             </div>
             <div id="content-box">
                     <nav>
-                        <NavLink activeClassName="active" to="/"><div id="login">   
+                        <NavLink activeClassName="active" to="/my-login"><div id="login">   
                             <b>Login</b>
                         </div></NavLink>
 

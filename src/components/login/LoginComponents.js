@@ -37,7 +37,7 @@ export default class Login extends React.Component {
                     </nav>
             </div>
             <Switch>
-                <Route exact path="/my-login" component={LoginLogin} />
+                <Route path="/my-login" component={LoginLogin} />
                 <Route path="/register" component={Register} />
             </Switch>
         </div>
